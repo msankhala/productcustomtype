@@ -1,0 +1,6 @@
+name = productcustomtype
+description = A new content type of Product using the drupal node api. <a href="https://api.drupal.org/api/drupal/modules%21node%21node.api.php/group/node_api_hooks/7"> Node API Hooks</a>
+package = Custom
+core = 7.x
+version = 7.x.1.0
+dependencies[] = node
